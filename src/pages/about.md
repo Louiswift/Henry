@@ -5,7 +5,7 @@ title: "About"
 
 Welcome here, this is my personal **blog website**.
 
-I'm WangJian, english name is Jerry. As a front-end developer, I have a strong interest and passion for web design and development. I enjoy creating beautiful, efficient, and user-friendly websites through code, and constantly learning and mastering new skills and tools.
+I'm Wangqiang, english name is Jerry. As a front-end developer, I have a strong interest and passion for web design and development. I enjoy creating beautiful, efficient, and user-friendly websites through code, and constantly learning and mastering new skills and tools.
 
 My personal blog website is a platform for me to showcase my work and share technical knowledge. In my blog, you can see the projects I have done, my technical articles, and personal experience sharing. Through my blog, you can learn about my technical level and passion for front-end development.
 

@@ -1,10 +1,10 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://www.jianwang.xyz/",
-  author: "Jerry",
+  website: "https://www.henrywang.xyz/",
+  author: "Henry",
   desc: "This is my personal blog site, where I will record some solutions to problems encountered in work and some interesting ideas.",
-  title: "Jerry",
+  title: "Henry",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
@@ -13,6 +13,7 @@ export const SITE: Site = {
 export const LOCALE = ["en-EN"]; // set to [] to use the environment default
 
 export const LOGO_IMAGE = {
+
   enable: false,
   svg: true,
   width: 216,
@@ -22,7 +23,7 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/wpolairs",
+    href: "https://github.com/Louiswift", 
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
   },
@@ -42,7 +43,7 @@ export const SOCIALS: SocialObjects = [
     name: "LinkedIn",
     href: "https://www.linkedin.com/in/jian-wang-856934238/",
     linkTitle: `${SITE.title} on LinkedIn`,
-    active: true,
+    active: false,
   },
   {
     name: "Mail",
