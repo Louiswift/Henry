@@ -26,10 +26,10 @@ I love front-end development and hope to continue to grow and improve in this fi
 
 ## Contact
 
-- **WeiXin**: 15202620447
-- **Email**: wpolairs@gmail.com
-- **Github**: https://github.com/wpolairs
-- **Link**: [linkedin](https://www.linkedin.com/in/jian-wang-856934238/)
+- **WeiXin**: lucky_v5225
+- **Email**: jack2392228720@gmail.com
+- **Github**: https://github.com/Louiswift
+<!-- - **Link**: [linkedin](https://www.linkedin.com/in/jian-wang-856934238/) -->
 
-if you can even give any feedback via my [email](wpolairs@gmail.com).  
+if you can even give any feedback via my [email](jack2392228720@gmail.com).  
 Or you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).
